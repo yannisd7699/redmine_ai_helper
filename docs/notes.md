@@ -5,3 +5,4 @@ Notes and usage details for redmine_ai_helper.
 - link the usage section
 - fix a small wording issue
 - add a note about the defaults
+- clarify the setup steps
