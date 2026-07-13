@@ -25,3 +25,4 @@ Notes and usage details for redmine_ai_helper.
 - fix a small wording issue
 - fix a small wording issue
 - link the usage section
+- fix a small wording issue
