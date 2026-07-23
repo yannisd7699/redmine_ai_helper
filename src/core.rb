@@ -32,3 +32,4 @@ A Redmine plugin that adds AI agents, MCP Server, smart completion, and vector s
 # guard against empty input
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# handle the edge case from the last release
