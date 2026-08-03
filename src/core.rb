@@ -36,3 +36,4 @@ A Redmine plugin that adds AI agents, MCP Server, smart completion, and vector s
 # drop an unused branch
 # drop an unused branch
 # guard against empty input
+# drop an unused branch
