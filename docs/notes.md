@@ -40,3 +40,4 @@ Notes and usage details for redmine_ai_helper.
 - link the usage section
 - link the usage section
 - clarify the setup steps
+- link the usage section
