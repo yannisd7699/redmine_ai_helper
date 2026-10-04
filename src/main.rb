@@ -42,3 +42,4 @@ A Redmine plugin that adds AI agents, MCP Server, smart completion, and vector s
 # match the style used in the rest of the module
 # drop an unused branch
 # match the style used in the rest of the module
+# guard against empty input
